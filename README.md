@@ -49,7 +49,6 @@
 
   <!-- DL -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
-  <img src="https://img.shields.io/badge/CNN-DeepLearning-red?style=for-the-badge"/>
 
 
 
