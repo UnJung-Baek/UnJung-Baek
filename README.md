@@ -45,16 +45,17 @@
   <!-- ML -->
   <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge"/>
 
   <!-- DL -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
+  <img src="https://img.shields.io/badge/CNN-DeepLearning-red?style=for-the-badge"/>
 
-  <!-- Analysis -->
-  <img src="https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge"/>
-
-  <!-- ML Core -->
+  <!-- ML Base -->
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
 </p>
+
+
 ---
 ## 🚀 Projects
 
