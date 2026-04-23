@@ -12,9 +12,10 @@
 
 ## 😄 About Me
 
-- 데이터를 통해 문제를 정의하고 해결하는 과정에 집중합니다  
-- 모델 성능보다 데이터 이해와 Feature Engineering을 더 중요하게 생각합니다  
-- 전처리 → 모델링 → 앙상블 → 검증까지 End-to-End로 설계합니다  
+- 데이터를 기반으로 **문제를 정의하고 해결하는 과정**에 집중합니다  
+- 모델 자체보다 **데이터 이해와 Feature Engineering**을 핵심으로 생각합니다  
+- 전처리 → Feature Engineering → 모델링 → 앙상블 → 검증까지 **End-to-End 파이프라인 설계 경험**이 있습니다  
+- 다양한 실험과 반복을 통해 **성능 개선과 구조 최적화**를 추구합니다  
 
 ---
 
@@ -23,7 +24,11 @@
 - ✍️ 머신러닝/딥러닝 독학 블로그 **200+ 게시글 작성**
 - 🔗 Blog: https://qordnswnd123.tistory.com/
 
-📌 단순 학습이 아닌 **개념 → 코드 → 실전 적용**까지 연결하는 것을 목표로 합니다  
+- 기초 이론부터 모델 구현, 실전 프로젝트까지 **지속적으로 학습 내용을 기록**
+- 단순 정리가 아닌 **개념 → 코드 → 실전 적용**까지 연결하며 이해를 확장
+- 꾸준한 학습과 기록을 통해 **새로운 기술을 빠르게 습득하고 적용하는 역량 보유**
+
+📌 **지속적인 학습과 기록을 통해 성장하는 것을 가장 중요하게 생각합니다**
 
 ---
 
@@ -34,6 +39,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Polars-3C8D0D?style=for-the-badge"/>
 </p>
 
 ### 🤖 Machine Learning
@@ -41,6 +47,7 @@
   <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
 </p>
 
 ### 🔥 Deep Learning
@@ -48,8 +55,21 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
 </p>
 
----
+### 📊 Data Analysis & Visualization
+<p>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge"/>
+</p>
 
+### ⚙️ Modeling & Pipeline
+- Feature Engineering / Feature Selection  
+- Cross Validation (K-Fold, Stratified K-Fold, Group K-Fold)  
+- Ensemble (Bagging, Boosting, Stacking, Weighted Ensemble)  
+- OOF (Out-of-Fold) 기반 모델 평가 및 가중치 최적화  
+- End-to-End ML Pipeline 설계  
+
+---
 ## 🚀 Projects
 
 ### ⚡ Electricity Consumption Prediction AI Competition
