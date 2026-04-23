@@ -4,10 +4,6 @@
   <b>AI / Data Science / Machine Learning / Deep Learning</b>
 </p>
 
-<p align="center">
-  <i>Problem-solving through data, not just modeling</i>
-</p>
-
 ---
 
 ## 😄 About Me
