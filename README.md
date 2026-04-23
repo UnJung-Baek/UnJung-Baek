@@ -51,9 +51,6 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
   <img src="https://img.shields.io/badge/CNN-DeepLearning-red?style=for-the-badge"/>
 
-  <!-- ML Base -->
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
-</p>
 
 
 ---
