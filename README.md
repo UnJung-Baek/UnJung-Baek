@@ -63,7 +63,7 @@
 ## Projects
 
 ### Electricity Consumption Prediction AI Competition
-- **Top 5% (38 / 932)**
+- **상위 5% (38 / 932)**
 - TabPFN 기반 스태킹 및 앙상블 모델 설계
 - 건물별(Local) / 건물유형별(Group) / 전체(Global) 관점의 계층적 앙상블 구조 구현
 - 전력사용량 시계열, 기상 데이터, 건물 메타데이터를 결합한 전처리 및 Feature Engineering 수행
