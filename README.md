@@ -4,6 +4,10 @@
   <b>AI / Data Science / Machine Learning / Deep Learning</b>
 </p>
 
+<p align="center">
+  지속적인 학습을 통해 얻은 지식을 실제 문제 해결로 연결합니다
+</p>
+
 ---
 
 ## About Me
