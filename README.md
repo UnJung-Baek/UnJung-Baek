@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">👋 UnJung Baek</h1>
+<h1 align="center"> UnJung Baek</h1>
 <p align="center">
   <b>AI / Data Science / Machine Learning / Deep Learning</b>
 </p>
