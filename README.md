@@ -18,7 +18,7 @@
 ## Learning Journey
 
 -  머신러닝/딥러닝 독학 블로그 **200+ 게시글 작성**
-- 🔗 Blog: https://qordnswnd123.tistory.com/
+-  Blog: https://qordnswnd123.tistory.com/
 
 - 기초 이론부터 모델 구현, 실전 프로젝트까지 지속적으로 학습 내용을 기록
 - 단순 정리가 아닌 개념 → 코드 → 실전 적용까지 연결하며 이해를 확장
