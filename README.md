@@ -34,26 +34,28 @@
 
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
-
 <p>
+  <!-- Core -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
+  <!-- Data -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
-  
 
+  <!-- ML Base -->
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+
+  <!-- ML Models -->
   <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge"/>
 
+  <!-- DL -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
 
+  <!-- DL Architecture -->
   <img src="https://img.shields.io/badge/CNN-DeepLearning-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ResNet-Architecture-red?style=for-the-badge"/>
-
-
 </p>
 
 
