@@ -34,41 +34,27 @@
 
 ## 🛠 Tech Stack
 
-### 💻 Language & Data
 <p>
+  <!-- Core -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+  <!-- Data -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Polars-3C8D0D?style=for-the-badge"/>
-</p>
 
-### 🤖 Machine Learning
-<p>
+  <!-- ML -->
   <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge"/>
+
+  <!-- DL -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
+
+  <!-- Analysis -->
+  <img src="https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge"/>
+
+  <!-- ML Core -->
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
 </p>
-
-### 🔥 Deep Learning
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
-</p>
-
-### 📊 Data Analysis & Visualization
-<p>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge"/>
-</p>
-
-### ⚙️ Modeling & Pipeline
-- Feature Engineering / Feature Selection  
-- Cross Validation (K-Fold, Stratified K-Fold, Group K-Fold)  
-- Ensemble (Bagging, Boosting, Stacking, Weighted Ensemble)  
-- OOF (Out-of-Fold) 기반 모델 평가 및 가중치 최적화  
-- End-to-End ML Pipeline 설계  
-
 ---
 ## 🚀 Projects
 
