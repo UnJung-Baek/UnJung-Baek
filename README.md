@@ -111,9 +111,3 @@
 
 - Email: qordnswnd123@gmail.com  
 - Blog: https://qordnswnd123.tistory.com/
-
----
-
-<p align="center">
-  <b>데이터를 깊이 이해하고 해결합니다</b>
-</p>
