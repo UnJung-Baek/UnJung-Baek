@@ -1,103 +1,113 @@
 <!-- HEADER -->
 <h1 align="center"> UnJung Baek</h1>
 <p align="center">
-  <b>AI / Data Science / Machine Learning / Deep Learning</b>
+  <b>데이터를 깊이 이해하고, 문제를 해결하는 AI Engineer</b>
 </p>
 
 <p align="center">
-  지속적인 학습을 통해 얻은 지식을 실제 문제 해결로 연결합니다
+  설비 운영 경험에서 데이터 기반 의사결정의 중요성을 인식하고  
+  이를 AI 기반 문제 해결로 확장하고 있습니다
 </p>
 
 ---
 
-## About Me
+## 📌 소개
 
 - 데이터를 기반으로 문제를 정의하고 해결하는 과정에 집중합니다  
-- 데이터 이해와 Feature Engineering을 핵심으로 생각합니다  
-- 전처리 → Feature Engineering → 모델링 → 앙상블 → 검증까지 End-to-End 파이프라인 설계 경험이 있습니다  
-- 다양한 실험과 반복을 통해 성능 개선과 구조 최적화를 추구합니다  
+- 단순 모델링이 아닌 데이터 이해와 Feature Engineering을 핵심 역량으로 삼고 있습니다  
+- 전처리 → Feature Engineering → 모델링 → 앙상블 → 검증까지 End-to-End 파이프라인 설계 경험을 보유하고 있습니다  
+- 반복적인 실험과 구조 개선을 통해 성능 최적화 및 일반화 성능 확보를 지향합니다  
+- 설비 운영 경험을 바탕으로 데이터 기반 의사결정의 중요성을 인식하고 AI로 확장한 실무형 인재입니다  
 
 ---
 
-## Learning Journey
+## 📚 학습 과정
 
-- 머신러닝/딥러닝 관련 블로그 **200+ 게시글 작성**
-- 데이콘 머신러닝·딥러닝 교육 이수  
-  (데이터 전처리, Pandas, CNN 이미지 분류, 시계열 분석 및 예측 모델링)
-- 기초 이론부터 모델 구현, 실전 프로젝트까지 학습 내용을 지속적으로 기록
-- 단순 정리를 넘어 개념 → 코드 → 실전 적용까지 연결하며 이해를 확장
-- 꾸준한 학습과 기록을 통해 새로운 기술을 습득하고 적용하는 역량 보유
+- 머신러닝 / 딥러닝 관련 블로그 200+ 게시글 작성
+- 데이터 전처리, 시계열 모델링, CNN, 등 실무 중심 학습 수행
+- 이론 → 코드 → 프로젝트로 연결되는 학습 구조 구축
+- 단순 학습이 아닌 문제 해결 중심 학습 및 적용 경험
+- 지속적인 기록과 실험을 통해 기술 내재화 및 응용 능력 강화
 
-- Blog: https://qordnswnd123.tistory.com/
-
+👉 Blog: https://qordnswnd123.tistory.com/
 
 ---
 
-## Tech Stack
+## 🛠 기술 스택
 
 <p>
-  <!-- Core -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-  <!-- Data -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-  <!-- ML Base -->
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
-
-  <!-- ML Models -->
   <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge"/>
-
-  <!-- DL -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
-
-  <!-- DL Architecture -->
-  <img src="https://img.shields.io/badge/CNN-DeepLearning-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ResNet-Architecture-red?style=for-the-badge"/>
 </p>
 
-
-
 ---
-## Projects
 
-### [전력사용량 예측 AI 경진대회](https://github.com/UnJung-Baek/2025-Electricity-Consumption-Prediction-AI-Competition)
-- **상위 5% (38 / 932)**
-- TabPFN 기반 스태킹 및 앙상블 모델 설계
-- 건물별(Local) / 건물유형별(Group) / 전체(Global) 관점의 계층적 앙상블 구조 구현
-- 전력사용량 시계열, 기상 데이터, 건물 메타데이터를 결합한 전처리 및 Feature Engineering 수행
-- 건물별 이질적 패턴과 운영 특성을 반영한 실전형 전력사용량 예측 파이프라인 구축
+## 🚀 프로젝트
 
-### [대구 빅데이터 분석 경진대회](https://github.com/UnJung-Baek/Daegu-BigData-Analysis)
-- **4위 입상**
-- 공공데이터(인구, 도로, 소방 등) 통합 및 행정동 단위 데이터셋 구축
-- XGBoost 기반 위험도 예측 모델 설계 (출동 횟수 및 대응 시간 예측)
-- SHAP을 활용한 지역별 주요 영향 변수 분석 및 해석
-- 도로 폭 확장, 주차 비율 변화 등 정책 시나리오 기반 시뮬레이션 수행
-- 단순 예측을 넘어 데이터 기반 정책 의사결정 방향 제시
+### ⚡ 전력사용량 예측 AI 경진대회
+👉 상위 5% (38 / 932)  
+👉 계층적 앙상블 구조 설계
 
-### [ETRI 휴먼이해 인공지능 경진대회](https://github.com/UnJung-Baek/ETRI-Lifelog-Sleep-Prediction)
-- **상위 30%**
-- 라이프로그 멀티 센서 데이터 기반 수면 지표(Q1~Q3, S1~S3) 예측
-- 1Hz 시간 정렬, interpolation 보간, 정규화를 포함한 시계열 전처리 파이프라인 구축
-- 시계열→이미지 변환을 적용한 CNN(ResNet 계열) 기반 모델 설계
-- Base / Full 구조 비교를 통한 확장 피처 실험 및 성능 개선
+- TabPFN(Local/Group) + AutoGluon(Global) 기반 계층적 모델 구조 설계
+- 건물별 / 유형별 / 전체 패턴을 분리하여 학습
+- OOF 기반 스태킹 및 가중 앙상블을 통한 성능 개선
+
+👉 https://github.com/UnJung-Baek/2025-Electricity-Consumption-Prediction-AI-Competition
 
 ---
 
-## What I Focus On
+### 🚒 대구 빅데이터 분석 경진대회
+👉 4위 입상
+👉 End-to-End 분석 수행
 
-- 데이터 기반 문제 정의 및 구조화
-- 도메인 이해를 기반으로 한 Feature Engineering 설계
-- 모델 앙상블 및 실험 기반 성능 개선
-- 재현 가능한 Pipeline 구축 및 검증
+- 공공 데이터 통합 및 행정동 단위 데이터 구축
+- XGBoost 기반 출동 도착시간 및 횟수 예측
+- SHAP 기반 영향 변수 분석 및 위험도 지도 설계
+- 정책 시뮬레이션을 통한 개선 효과 검증
+
+👉 https://github.com/UnJung-Baek/Daegu-BigData-Analysis
 
 ---
 
-## Contact
+### 🧠 ETRI 휴먼이해 AI 경진대회
+👉 상위 30%
+
+- 라이프로그 센서 기반 수면 지표 예측
+- 시계열 데이터를 이미지로 변환하여 CNN 모델 적용
+- Base / Full 구조 및 앙상블을 통한 성능 개선
+
+👉 https://github.com/UnJung-Baek/ETRI-Lifelog-Sleep-Prediction
+
+---
+
+## 🎯 핵심 역량
+
+- 데이터 기반 문제 정의 및 구조 설계
+- Feature Engineering 기반 성능 개선
+- 앙상블 및 스태킹 기반 모델 최적화
+- 재현 가능한 ML Pipeline 구축
+- 실무 문제를 AI로 확장하는 문제 해결 능력
+
+---
+
+## 📌 경력
+
+- (주)경방 시설관리팀  
+  → 설비 운영 및 공사 관리 수행  
+  → 데이터 기반 의사결정의 중요성을 인식하고 AI로 확장  
+
+- (주)LG디스플레이  
+  → 설비 및 공정 데이터 흐름 이해  
+
+---
+
+## 📫 Contact
 
 - Email: qordnswnd123@gmail.com  
 - Blog: https://qordnswnd123.tistory.com/
@@ -105,5 +115,5 @@
 ---
 
 <p align="center">
-  <b> Always learning, always improving</b>
+  <b>데이터를 깊이 이해하고 해결합니다</b>
 </p>
