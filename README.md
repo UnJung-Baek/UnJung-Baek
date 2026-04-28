@@ -62,14 +62,14 @@
 ---
 ## Projects
 
-### Electricity Consumption Prediction AI Competition
+### [전력사용량 예측 AI 경진대회](https://github.com/UnJung-Baek/2025-Electricity-Consumption-Prediction-AI-Competition)
 - **상위 5% (38 / 932)**
 - TabPFN 기반 스태킹 및 앙상블 모델 설계
 - 건물별(Local) / 건물유형별(Group) / 전체(Global) 관점의 계층적 앙상블 구조 구현
 - 전력사용량 시계열, 기상 데이터, 건물 메타데이터를 결합한 전처리 및 Feature Engineering 수행
 - 건물별 이질적 패턴과 운영 특성을 반영한 실전형 전력사용량 예측 파이프라인 구축
 
-### Daegu BigData Analysis
+### [대구 빅데이터 분석 경진대회](https://github.com/UnJung-Baek/Daegu-BigData-Analysis)
 - **4위 입상**
 - 공공데이터(인구, 도로, 소방 등) 통합 및 행정동 단위 데이터셋 구축
 - XGBoost 기반 위험도 예측 모델 설계 (출동 횟수 및 대응 시간 예측)
@@ -77,7 +77,7 @@
 - 도로 폭 확장, 주차 비율 변화 등 정책 시나리오 기반 시뮬레이션 수행
 - 단순 예측을 넘어 데이터 기반 정책 의사결정 방향 제시
 
-### ETRI Lifelog Sleep Prediction
+### [ETRI 휴먼이해 인공지능 경진대회](https://github.com/UnJung-Baek/ETRI-Lifelog-Sleep-Prediction)
 - **상위 30%**
 - 라이프로그 멀티 센서 데이터 기반 수면 지표(Q1~Q3, S1~S3) 예측
 - 1Hz 시간 정렬, interpolation 보간, 정규화를 포함한 시계열 전처리 파이프라인 구축
